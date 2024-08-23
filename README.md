@@ -2,3 +2,4 @@
 ## Here are the Output's of the various Projests👇👇
 
 #### 1. [Simple Calculator]()
+#### 2. [Digital Clock]()
