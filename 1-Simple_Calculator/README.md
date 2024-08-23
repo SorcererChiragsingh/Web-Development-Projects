@@ -2,5 +2,5 @@
 
 ## 1.Simple Calculator
 
-## Watch the Live Preview 👉[Click Here]()
+## Watch the Live Preview 👉[Click Here](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/1-Simple_Calculator/index.html)
 ![image](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/1-Simple_Calculator/Preview.png)
