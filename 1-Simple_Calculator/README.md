@@ -1,4 +1,4 @@
-# Basic Web Development Projects Part 1
+# Basic Web Development Project's
 
 ## 1.Simple Calculator
 
