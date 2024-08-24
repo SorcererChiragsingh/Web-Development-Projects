@@ -1,4 +1,4 @@
-# Web Development Projects Part 1
+# Basic Web Development Project's
 
 ## 2. Digital Clock
 
