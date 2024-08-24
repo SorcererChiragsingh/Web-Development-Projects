@@ -1,4 +1,4 @@
-# Web Development projects
+# Basic Web Development projects
 
 ## 4. Rock Paper Scissors
 
