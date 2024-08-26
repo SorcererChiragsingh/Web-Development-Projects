@@ -7,3 +7,6 @@
 #### 4. [Rock Paper and Scissors]()
 #### 5. [Social Media Icons]()
 #### 6. [Star Rating]()
+#### 7. [StopWatch]()
+#### 8. [Random Color Generator]()
+#### 9. [Simple Login Form]()
