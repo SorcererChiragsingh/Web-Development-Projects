@@ -35,41 +35,41 @@ Basic Web Development Projects focused on building foundational web applications
 
 ## Screenshots
 
-### 1.Simple Calculator
+### 1.Simple Calculator <a href="" target="_blank"><strong>➥ Live Demo for Simple Calculator</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/1-Simple_Calculator/Preview.png)
-<a href="" target="_blank"><strong>➥ Live Demo for Simple Calculator</strong></a>
 
-### 2.Digital Clock
+
+### 2.Digital Clock <a href="" target="_blank"><strong>➥ Live Demo for Digital Clock</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/2-Digital_Clock/preview.png)
-<a href="" target="_blank"><strong>➥ Live Demo for Digital Clock</strong></a>
 
-### 3.To Do List
+
+### 3.To Do List <a href="" target="_blank"><strong>➥ Live Demo for To Do List</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/3-To_Do_List/preview.png)
-<a href="" target="_blank"><strong>➥ Live Demo for To Do List</strong></a>
 
-### 4.Rock Paper and Scissors
+
+### 4.Rock Paper and Scissors <a href="" target="_blank"><strong>➥ Live Demo for Rock Paper & Scissor</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/4-Rock_Paper_Scissors/preview.png)
-<a href="" target="_blank"><strong>➥ Live Demo for Rock Paper & Scissor</strong></a>
 
-### 5.Social Media Icons
+
+### 5.Social Media Icons <a href="" target="_blank"><strong>➥ Live Demo for Social Media Icons</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/5-Social_Media_Icons/preview.png)
-<a href="" target="_blank"><strong>➥ Live Demo for Social Media Icons</strong></a>
 
-### 6.Star Rating
+
+### 6.Star Rating <a href="" target="_blank"><strong>➥ Live Demo for Star Rating</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/6-Star_Rating/preview.png)
-<a href="" target="_blank"><strong>➥ Live Demo for Star Rating</strong></a>
 
-### 7.StopWatch
+
+### 7.StopWatch <a href="" target="_blank"><strong>➥ Live Demo for StopWatch</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/7-Stopwatch/preview.png)
-<a href="" target="_blank"><strong>➥ Live Demo for StopWatch</strong></a>
 
-### 8.Random Color Generator
+
+### 8.Random Color Generator <a href="" target="_blank"><strong>➥ Live Demo for Random Color Generator</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/8-Random_Color_Generator/preview.png)
-<a href="" target="_blank"><strong>➥ Live Demo for Random Color Generator</strong></a>
 
-### 9.Simple Login Form
+
+### 9.Simple Login Form <a href="" target="_blank"><strong>➥ Live Demo for Simple Login Form</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/9-Simple_Login_Form/preview.png)
-<a href="" target="_blank"><strong>➥ Live Demo for Simple Login Form</strong></a>
+
 
 ## Tech Stack
 
