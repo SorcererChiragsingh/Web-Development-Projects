@@ -70,6 +70,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 9.Simple Login Form <a href="" target="_blank"><strong>➥ Live Demo for Simple Login Form</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/9-Simple_Login_Form/preview.png)
 
+### 10.Temperature Converter <a href="" target="_blank"><strong>➥ Live Demo for Temperature Converter</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/10-Temperature_Converter/preview.png)
+
 
 ## Tech Stack
 
