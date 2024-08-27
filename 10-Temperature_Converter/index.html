@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+
+  <title>Temperature Converter</title>
+
+</head>
+<body>
+
+  <div class="container">
+    <div class="row justify-content-md-center">
+      <div class="col-md-6 text-center">
+        <h1>Temperature Converter</h1>
+
+        <div id="celsius" style="position: relative; display: inline-block;">
+          <input type="number" class="form-control form-control-lg form-padding" id="input-celsius" placeholder=" " style="padding-right: 60px;">
+          <label for="input-celsius" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); color: grey; pointer-events: none;">
+              Celsius
+          </label>
+      </div>
+
+      <div id="fahrenheit" style="position: relative; display: inline-block;">
+        <input type="number" class="form-control form-control-lg form-padding" id="input-fahrenheit" placeholder=" " style="padding-right: 70px;">
+        <label for="input-fahrenheit" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); color: grey; pointer-events: none;">
+            Fahrenheit
+        </label>
+    </div>
+    
+
+    <div id="kelvin" style="position: relative; display: inline-block;">
+      <input type="number" class="form-control form-control-lg form-padding" id="input-kelvin" placeholder=" " style="padding-right: 60px;">
+      <label for="input-kelvin" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); color: grey; pointer-events: none;">
+          Kelvin
+      </label>
+  </div>
+  
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <script src="main.js" charset="utf-8"></script>
+</body>
+</html>
