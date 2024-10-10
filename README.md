@@ -103,7 +103,7 @@ Basic Web Development Projects focused on building foundational web applications
 
 - I want to express my gratitude to the online resources that greatly assisted me in completing this project.
 
-- Firstly, I am thankful to [Geeks for Geeks](https://www.geeksforgeeks.org/web-development-projects/?ref=lbp) for providing extensive tutorials and examples on web development topics, which helped deepen my understanding of various concepts and techniques.
+- Firstly, I am thankful to [Vijay Kumar](https://www.udemy.com/user/vijay-kumar-4865/) & [Geeks for Geeks](https://www.geeksforgeeks.org/web-development-projects/?ref=lbp) for providing extensive tutorials and examples on web development topics, which helped deepen my understanding of various concepts and techniques.
 
 - Additionally, I would like to acknowledge [Teamwork.com](https://www.teamwork.com/blog/web-development-projects/) for its insights and resources on effective project management, which were invaluable in organizing and executing the different stages of this project.
 
