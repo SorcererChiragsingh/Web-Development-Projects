@@ -73,7 +73,49 @@ Basic Web Development Projects focused on building foundational web applications
 ### 10.Temperature Converter <a href="" target="_blank"><strong>➥ Live Demo for Temperature Converter</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/10-Temperature_Converter/preview.png)
 
+### 11.Tribute Page <a href="" target="_blank"><strong>➥ Live Demo for Tribute Page</strong></a>
+![]()
 
+### 12.Qiuz App <a href="" target="_blank"><strong>➥ Live Demo for Qiuz App</strong></a>
+![]()
+
+### 13.Restaurant Website<a href="" target="_blank"><strong>➥ Live Demo for Restaurant Website</strong></a>
+![]()
+
+### 14.Dice Game <a href="" target="_blank"><strong>➥ Live Demo for Dice Game</strong></a>
+![]()
+
+### 15.Product Landing Page <a href="" target="_blank"><strong>➥ Live Demo for Product Landing Page</strong></a>
+![]()
+
+### 16.Tic Tac Toe Game <a href="" target="_blank"><strong>➥ Live Demo for Tic Tac Toe Game</strong></a>
+![]()
+
+### 17.Snake Game <a href="" target="_blank"><strong>➥ Live Demo for Snake Game</strong></a>
+![]()
+
+### 18.Sorting Visualizer <a href="" target="_blank"><strong>➥ Live Demo for Sorting Visualizer</strong></a>
+![]()
+
+### 19.Insect Catch Game <a href="" target="_blank"><strong>➥ Live Demo for Insect Catch Game</strong></a>
+![]()
+
+### 20.Rotating Navigation Animation <a href="" target="_blank"><strong>➥ Live Demo for Rotating Navigation Animation</strong></a>
+![]()
+
+### 21.Invalid Input Shake <a href="" target="_blank"><strong>➥ Live Demo for Invalid Input Shake</strong></a>
+![]()
+
+<!-- 
+### 22. <a href="" target="_blank"><strong>➥ Live Demo for </strong></a>
+![]()
+
+### 23. <a href="" target="_blank"><strong>➥ Live Demo for </strong></a>
+![]()
+
+### 24. <a href="" target="_blank"><strong>➥ Live Demo for </strong></a>
+![]()
+-->
 ## Tech Stack
 
 - Frontend: HTML, CSS, JAVASCRIPT, BOOTSTRAP
