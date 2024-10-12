@@ -74,19 +74,21 @@ Basic Web Development Projects focused on building foundational web applications
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/10-Temperature_Converter/preview.png)
 
 ### 11.Tribute Page <a href="" target="_blank"><strong>➥ Live Demo for Tribute Page</strong></a>
-![]()
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/11-Tribute%20Page/preview1.png)
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/11-Tribute%20Page/preview2.png)
 
 ### 12.Qiuz App <a href="" target="_blank"><strong>➥ Live Demo for Qiuz App</strong></a>
-![]()
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/12-Quiz%20App/Image/Preview2.png)
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/12-Quiz%20App/Image/Preview3.png)
 
 ### 13.Restaurant Website<a href="" target="_blank"><strong>➥ Live Demo for Restaurant Website</strong></a>
-![]()
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/13-Restaurant_website/Image/demo.gif)
 
 ### 14.Dice Game <a href="" target="_blank"><strong>➥ Live Demo for Dice Game</strong></a>
 ![]()
 
 ### 15.Product Landing Page <a href="" target="_blank"><strong>➥ Live Demo for Product Landing Page</strong></a>
-![]()
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/15-Product%20Landing%20Page/preview1.png)
 
 ### 16.Tic Tac Toe Game <a href="" target="_blank"><strong>➥ Live Demo for Tic Tac Toe Game</strong></a>
 ![]()

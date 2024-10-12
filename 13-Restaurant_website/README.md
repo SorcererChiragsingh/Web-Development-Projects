@@ -5,4 +5,4 @@
 ## Watch the Live Preview 👉[Click Here]()
 
 ![Preview Image1]()
-![Demo](img/demo.gif)
+![Demo](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/13-Restaurant_website/Image/demo.gif)
