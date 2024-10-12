@@ -106,15 +106,12 @@ Basic Web Development Projects focused on building foundational web applications
 ### 21.Invalid Input Shake <a href="" target="_blank"><strong>➥ Live Demo for Invalid Input Shake</strong></a>
 ![]()
 
+### 22.Box Shadow Generator <a href="" target="_blank"><strong>➥ Live Demo for Box Shadow Geneator</strong></a>
+![]()
 <!-- 
-### 22. <a href="" target="_blank"><strong>➥ Live Demo for </strong></a>
+### 00. <a href="" target="_blank"><strong>➥ Live Demo for </strong></a>
 ![]()
 
-### 23. <a href="" target="_blank"><strong>➥ Live Demo for </strong></a>
-![]()
-
-### 24. <a href="" target="_blank"><strong>➥ Live Demo for </strong></a>
-![]()
 -->
 ## Tech Stack
 
