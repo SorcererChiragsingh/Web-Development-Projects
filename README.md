@@ -98,7 +98,7 @@ Basic Web Development Projects focused on building foundational web applications
 ![]()
 
 ### 18.Sorting Visualizer <a href="" target="_blank"><strong>➥ Live Demo for Sorting Visualizer</strong></a>
-![]()
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/18-Sorting%20Visualizer/preview.png)
 
 ### 19.Insect Catch Game <a href="" target="_blank"><strong>➥ Live Demo for Insect Catch Game</strong></a>
 ![]()
