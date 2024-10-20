@@ -91,7 +91,8 @@ Basic Web Development Projects focused on building foundational web applications
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/15-Product%20Landing%20Page/preview1.png)
 
 ### 16.Tic Tac Toe Game <a href="" target="_blank"><strong>➥ Live Demo for Tic Tac Toe Game</strong></a>
-![]()
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/16-Tic%20Tac%20Toe/preview1.png)
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/16-Tic%20Tac%20Toe/preview2.png)
 
 ### 17.Snake Game <a href="" target="_blank"><strong>➥ Live Demo for Snake Game</strong></a>
 ![]()
