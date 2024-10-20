@@ -113,6 +113,10 @@ Basic Web Development Projects focused on building foundational web applications
 
 ### 23.Notes Application <a href="" target="_blank"><strong>➥ Live Demo for Notes Application</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/23-Notes%20Application/preview.png)
+
+### 24.Hoverboard <a href="" target="_blank"><strong>➥ Live Demo for Hoverboard</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/24-Hoverboard/preview.png)
+
 <!-- 
 ### 00. <a href="" target="_blank"><strong>➥ Live Demo for </strong></a>
 ![]()
