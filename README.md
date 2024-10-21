@@ -106,7 +106,8 @@ Basic Web Development Projects focused on building foundational web applications
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/19-Insect%20Catch%20Game/preview3.png)
 
 ### 20.Rotating Navigation Animation <a href="" target="_blank"><strong>➥ Live Demo for Rotating Navigation Animation</strong></a>
-![]()
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/20-Rotating%20Navigation%20Animation/preview1.png)
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/20-Rotating%20Navigation%20Animation/preview2.png)
 
 ### 21.Invalid Input Shake <a href="" target="_blank"><strong>➥ Live Demo for Invalid Input Shake</strong></a>
 ![]()
