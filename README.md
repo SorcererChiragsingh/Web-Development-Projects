@@ -101,7 +101,9 @@ Basic Web Development Projects focused on building foundational web applications
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/18-Sorting%20Visualizer/preview.png)
 
 ### 19.Insect Catch Game <a href="" target="_blank"><strong>➥ Live Demo for Insect Catch Game</strong></a>
-![]()
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/19-Insect%20Catch%20Game/preview1.png)
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/19-Insect%20Catch%20Game/preview2.png)
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/19-Insect%20Catch%20Game/preview3.png)
 
 ### 20.Rotating Navigation Animation <a href="" target="_blank"><strong>➥ Live Demo for Rotating Navigation Animation</strong></a>
 ![]()
