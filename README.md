@@ -111,7 +111,7 @@ Basic Web Development Projects focused on building foundational web applications
 
 ### 21.Invalid Input Shake <a href="" target="_blank"><strong>➥ Live Demo for Invalid Input Shake</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/21-Invalid%20Input%20Shake/preview1.png)
-![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/21-Invalid%20Input%20Shake/preview1.png)
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/21-Invalid%20Input%20Shake/preview2.png)
 
 ### 22.Box Shadow Generator <a href="" target="_blank"><strong>➥ Live Demo for Box Shadow Geneator</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/22-Box%20Shadow%20Generator/preview.png)
