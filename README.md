@@ -35,91 +35,91 @@ Basic Web Development Projects focused on building foundational web applications
 
 ## Screenshots
 
-### 1.Simple Calculator <a href="" target="_blank"><strong>➥ Live Demo for Simple Calculator</strong></a>
+### 1.Simple Calculator <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/1-Simple_Calculator/Preview.png)
 
 
-### 2.Digital Clock <a href="" target="_blank"><strong>➥ Live Demo for Digital Clock</strong></a>
+### 2.Digital Clock <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/2-Digital_Clock/preview.png)
 
 
-### 3.To Do List <a href="" target="_blank"><strong>➥ Live Demo for To Do List</strong></a>
+### 3.To Do List <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/3-To_Do_List/preview.png)
 
 
-### 4.Rock Paper and Scissors <a href="" target="_blank"><strong>➥ Live Demo for Rock Paper & Scissor</strong></a>
+### 4.Rock Paper and Scissors <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/4-Rock_Paper_Scissors/preview.png)
 
 
-### 5.Social Media Icons <a href="" target="_blank"><strong>➥ Live Demo for Social Media Icons</strong></a>
+### 5.Social Media Icons <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/5-Social_Media_Icons/preview.png)
 
 
-### 6.Star Rating <a href="" target="_blank"><strong>➥ Live Demo for Star Rating</strong></a>
+### 6.Star Rating <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/6-Star_Rating/preview.png)
 
 
-### 7.StopWatch <a href="" target="_blank"><strong>➥ Live Demo for StopWatch</strong></a>
+### 7.StopWatch <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/7-Stopwatch/preview.png)
 
 
-### 8.Random Color Generator <a href="" target="_blank"><strong>➥ Live Demo for Random Color Generator</strong></a>
+### 8.Random Color Generator <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/8-Random_Color_Generator/preview.png)
 
 
-### 9.Simple Login Form <a href="" target="_blank"><strong>➥ Live Demo for Simple Login Form</strong></a>
+### 9.Simple Login Form <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/9-Simple_Login_Form/preview.png)
 
-### 10.Temperature Converter <a href="" target="_blank"><strong>➥ Live Demo for Temperature Converter</strong></a>
+### 10.Temperature Converter <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/10-Temperature_Converter/preview.png)
 
-### 11.Tribute Page <a href="" target="_blank"><strong>➥ Live Demo for Tribute Page</strong></a>
+### 11.Tribute Page <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/11-Tribute%20Page/preview1.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/11-Tribute%20Page/preview2.png)
 
-### 12.Qiuz App <a href="" target="_blank"><strong>➥ Live Demo for Qiuz App</strong></a>
+### 12.Qiuz App <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/12-Quiz%20App/Image/Preview2.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/12-Quiz%20App/Image/Preview3.png)
 
-### 13.Restaurant Website<a href="" target="_blank"><strong>➥ Live Demo for Restaurant Website</strong></a>
+### 13.Restaurant Website<a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/13-Restaurant_website/Image/demo.gif)
 
-### 14.Dice Game <a href="" target="_blank"><strong>➥ Live Demo for Dice Game</strong></a>
+### 14.Dice Game <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![]()
 
-### 15.Product Landing Page <a href="" target="_blank"><strong>➥ Live Demo for Product Landing Page</strong></a>
+### 15.Product Landing Page <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/15-Product%20Landing%20Page/preview1.png)
 
-### 16.Tic Tac Toe Game <a href="" target="_blank"><strong>➥ Live Demo for Tic Tac Toe Game</strong></a>
+### 16.Tic Tac Toe Game <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/16-Tic%20Tac%20Toe%20Game/preview1.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/16-Tic%20Tac%20Toe%20Game/preview2.png)
 
-### 17.Snake Game <a href="" target="_blank"><strong>➥ Live Demo for Snake Game</strong></a>
+### 17.Snake Game <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![]()
 
-### 18.Sorting Visualizer <a href="" target="_blank"><strong>➥ Live Demo for Sorting Visualizer</strong></a>
+### 18.Sorting Visualizer <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/18-Sorting%20Visualizer/preview.png)
 
-### 19.Insect Catch Game <a href="" target="_blank"><strong>➥ Live Demo for Insect Catch Game</strong></a>
+### 19.Insect Catch Game <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/19-Insect%20Catch%20Game/preview1.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/19-Insect%20Catch%20Game/preview2.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/19-Insect%20Catch%20Game/preview3.png)
 
-### 20.Rotating Navigation Animation <a href="" target="_blank"><strong>➥ Live Demo for Rotating Navigation Animation</strong></a>
+### 20.Rotating Navigation Animation <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/20-Rotating%20Navigation%20Animation/preview1.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/20-Rotating%20Navigation%20Animation/preview2.png)
 
-### 21.Invalid Input Shake <a href="" target="_blank"><strong>➥ Live Demo for Invalid Input Shake</strong></a>
+### 21.Invalid Input Shake <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/21-Invalid%20Input%20Shake/preview1.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/21-Invalid%20Input%20Shake/preview2.png)
 
-### 22.Box Shadow Generator <a href="" target="_blank"><strong>➥ Live Demo for Box Shadow Geneator</strong></a>
+### 22.Box Shadow Generator <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/22-Box%20Shadow%20Generator/preview.png)
 
-### 23.Notes Application <a href="" target="_blank"><strong>➥ Live Demo for Notes Application</strong></a>
+### 23.Notes Application <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/23-Notes%20Application/preview.png)
 
-### 24.Hoverboard <a href="" target="_blank"><strong>➥ Live Demo for Hoverboard</strong></a>
+### 24.Hoverboard <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/24-Hoverboard/preview.png)
 
 <!-- 
