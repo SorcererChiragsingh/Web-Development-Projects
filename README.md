@@ -122,8 +122,11 @@ Basic Web Development Projects focused on building foundational web applications
 ### 24.Hoverboard <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/24-Hoverboard/preview.png)
 
+### 25.Drawing App <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/25-Drawing%20App/preview.png)
+
 <!-- 
-### 00. <a href="" target="_blank"><strong>➥ Live Demo for </strong></a>
+### 00. <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![]()
 
 -->
