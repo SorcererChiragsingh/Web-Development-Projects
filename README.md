@@ -125,6 +125,8 @@ Basic Web Development Projects focused on building foundational web applications
 ### 25.Drawing App <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/25-Drawing%20App/preview.png)
 
+### 26.Gradient Generator <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/26-Gradient%20Generator/preview.png)
 <!-- 
 ### 00. <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![]()
