@@ -127,6 +127,10 @@ Basic Web Development Projects focused on building foundational web applications
 
 ### 26.Gradient Generator <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/26-Gradient%20Generator/preview.png)
+
+### 27.Animated CountDown <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/27-Animated%20countdown/preview.png)
+
 <!-- 
 ### 00. <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![]()
