@@ -134,7 +134,7 @@ Basic Web Development Projects focused on building foundational web applications
 ### 28.Memory Matching Game <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/28-Memory%20Matching%20Game/Images/snapshot1.PNG)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/28-Memory%20Matching%20Game/Images/snapshot2.PNG)
-![]()https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/28-Memory%20Matching%20Game/Images/snapshot3.PNG
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/28-Memory%20Matching%20Game/Images/snapshot3.PNG)
 
 <!-- 
 
