@@ -98,7 +98,7 @@ Basic Web Development Projects focused on building foundational web applications
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/17-Snake%20Game/preview1.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/17-Snake%20Game/preview2.png)
 
-### 18.Sorting Visualizer <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/18-Sorting%20Visualizer," target="_blank"><strong>➥ Live Demo</strong></a>
+### 18.Sorting Visualizer <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/18-Sorting%20Visualizer" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/18-Sorting%20Visualizer/preview.png)
 
 ### 19.Insect Catch Game <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/19-Insect%20Catch%20Game" target="_blank"><strong>➥ Live Demo</strong></a>
