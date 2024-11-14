@@ -6,7 +6,7 @@
 - So the Data Actually gets stored in web browser local storage, itself "Pog Champ".
 - Inspect the web page -> Go to applications -> go to Local storage -> check in key & Value -> Data will be in value.
  
-## Watch the Live Preview 👉[Click Here]()
+## Watch the Live Preview 👉[Click Here](https://sorcererchiragsingh.github.io/Web-Development-Projects/23-Notes%20Application)
 ![Preview Image1](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/23-Notes%20Application/preview.png)
 
 
