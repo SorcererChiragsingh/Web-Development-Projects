@@ -35,7 +35,7 @@ Basic Web Development Projects focused on building foundational web applications
 
 ## Screenshots
 
-### 1.Simple Calculator <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
+### 1.Simple Calculator <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/1-Simple_Calculator" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/1-Simple_Calculator/Preview.png)
 
 
