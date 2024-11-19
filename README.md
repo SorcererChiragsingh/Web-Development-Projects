@@ -137,6 +137,10 @@ Basic Web Development Projects focused on building foundational web applications
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/28-Memory%20Matching%20Game/Images/snapshot2.PNG)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/28-Memory%20Matching%20Game/Images/snapshot3.PNG)
 
+### 29.Feedback UI Design <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/29-Feedback%20UI%20Design" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/29-Feedback%20UI%20Design/Images/preview1.png)
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/29-Feedback%20UI%20Design/Images/preview2.png)
+
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
