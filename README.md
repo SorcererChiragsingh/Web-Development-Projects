@@ -141,6 +141,11 @@ Basic Web Development Projects focused on building foundational web applications
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/29-Feedback%20UI%20Design/Images/preview1.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/29-Feedback%20UI%20Design/Images/preview2.png)
 
+
+### 30.Verify Account UI Design <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/30-Verify%20Account%20UI" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/30-Verify%20Account%20UI/Images/preview.png)
+
+
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
