@@ -148,9 +148,6 @@ Basic Web Development Projects focused on building foundational web applications
 ### 31.Shoes Website <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/31-Shoes%20Website" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/31-Shoes%20Website/Images/preview1.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/31-Shoes%20Website/Images/preview2.png)
-![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/31-Shoes%20Website/Images/preview3.png)
-![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/31-Shoes%20Website/Images/preview4.png)
-
 
 <!-- 
 
