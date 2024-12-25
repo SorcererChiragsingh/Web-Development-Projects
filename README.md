@@ -149,6 +149,10 @@ Basic Web Development Projects focused on building foundational web applications
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/31-Shoes%20Website/Image/preview1.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/31-Shoes%20Website/Image/preview2.png)
 
+### 32.Movie App <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/32-Movie%20App" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/32-Movie%20App/Images/preview1.png)
+
+
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
