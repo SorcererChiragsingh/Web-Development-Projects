@@ -152,6 +152,10 @@ Basic Web Development Projects focused on building foundational web applications
 ### 32.Movie App <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/32-Movie%20App" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/32-Movie%20App/Images/preview1.png)
 
+### 33.Password Generator <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/33-Password%20Generator" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/33-Password%20Generator/Images/preview1.png)
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/33-Password%20Generator/Images/preview2.png)
+
 
 <!-- 
 
