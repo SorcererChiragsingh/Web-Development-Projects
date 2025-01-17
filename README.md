@@ -158,6 +158,11 @@ Basic Web Development Projects focused on building foundational web applications
 
 ### 34.Drag & Drop <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/34-Drag%20&%20Drop" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/34-Drag%20&%20Drop/Images/preview1.png)
+
+### 35.Blurry Loading <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/35-Blurry%20Loading" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/35-Blurry%20Loading/Images/preview1.png)
+
+
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
