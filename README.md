@@ -162,6 +162,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 35.Blurry Loading <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/35-Blurry%20Loading" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/35-Blurry%20Loading/Images/preview1.png)
 
+### 36.Sound Board <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/36-Sound%20Board" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/36-Sound%20Board/Images/preview1.png)
+
 
 <!-- 
 
