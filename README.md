@@ -33,7 +33,7 @@ Basic Web Development Projects focused on building foundational web applications
 - **Feature 2:** Semantic HTML: Used semantic elements to improve accessibility and SEO.
 - **Feature 3:** Custom CSS Styling: Applied custom styling with CSS to enhance the visual appeal and user experience.
 
-## Screenshots
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects:
 
 ### 1.Simple Calculator <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/1-Simple_Calculator" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/1-Simple_Calculator/Preview.png)
