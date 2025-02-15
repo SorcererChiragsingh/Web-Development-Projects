@@ -168,6 +168,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 37.Dictionary Application <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/37-Dictionary%20Application" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/37-Dictionary%20Application/Images/preview1.png)
 
+### 38.Poll System Application <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/38-Poll%20System%20Application" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/38-Poll%20System%20Application/Images/preview1.png)
+
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
