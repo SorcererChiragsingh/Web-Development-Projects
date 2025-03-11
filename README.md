@@ -175,6 +175,9 @@ Basic Web Development Projects focused on building foundational web applications
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/39-Image%20Carousel/Images/preview1.png)
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/39-Image%20Carousel/Images/preview2.png)
 
+### 40.Password Strength Background <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/40-Password%20Strength%20Background" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/40-Password%20Strength%20Background/Images/preview1.png)
+
 
 <!-- 
 
