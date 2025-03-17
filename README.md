@@ -178,7 +178,8 @@ Basic Web Development Projects focused on building foundational web applications
 ### 40.Password Strength Background <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/40-Password%20Strength%20Background" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/SorcererChiragsingh/Web-Development-Projects/blob/main/40-Password%20Strength%20Background/Images/preview1.png)
 
-
+### 41.Button Ripple Effect <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/41-Button%20Ripple%20Effect" target="_blank"><strong>➥ Live Demo</strong></a>
+![]()
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
