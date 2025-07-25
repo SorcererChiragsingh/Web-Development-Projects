@@ -191,6 +191,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 44.Drink Water <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/44-Drink%20Water" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/44-Drink%20Water/Images/preview1.png)
 
+### 45.Live User Filter <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/45-Live%20User%20Filter" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/45-Live%20User%20Filter/Images/preview1.png)
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/45-Live%20User%20Filter/Images/preview2.png)
 
 <!-- 
 
