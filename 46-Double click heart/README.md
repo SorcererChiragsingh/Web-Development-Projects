@@ -1,10 +1,9 @@
 # Basic Web Development Project's
 
-## 45.Double Click Heart
+## 46.Double Click Heart
 
 
 - This project is made using HTML,CSS & JavaScript.
-- 
 
 <br>
 
