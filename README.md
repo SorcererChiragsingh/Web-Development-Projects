@@ -195,8 +195,11 @@ Basic Web Development Projects focused on building foundational web applications
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/45-Live%20User%20Filter/Images/preview1.png)
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/45-Live%20User%20Filter/Images/preview2.png)
 
- ### 46.Double Heart Click <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/46-Double%20click%20heart" target="_blank"><strong>➥ Live Demo</strong></a>
+### 46.Double Heart Click <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/46-Double%20click%20heart" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/46-Double%20click%20heart/Images/preview1.png)
+
+### 47.Basic Image Editor <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/47-Basic%20Image%20Editor" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/47-Basic%20Image%20Editor/Images/preview1.png)
 
 
 <!-- 
