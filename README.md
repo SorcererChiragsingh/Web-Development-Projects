@@ -201,6 +201,8 @@ Basic Web Development Projects focused on building foundational web applications
 ### 47.Basic Image Editor <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/47-Basic%20Image%20Editor" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/47-Basic%20Image%20Editor/Images/preview1.png)
 
+### 48.Battleship <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/48-Battleship" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/48-Battleship/Images/preview1.png)
 
 <!-- 
 
