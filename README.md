@@ -212,6 +212,11 @@ Basic Web Development Projects focused on building foundational web applications
 ### 50.Pong Game <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/50-Pong" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/50-Pong/Images/preview1.png)
 
+
+### 51.Minesweeper Game <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/51-Minesweeper%20Game" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/51-Minesweeper%20Game/Images/preview1.png)
+
+
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
