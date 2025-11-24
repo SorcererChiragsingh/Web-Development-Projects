@@ -4,8 +4,6 @@
 
 
 - This project is made using HTML,CSS & JavaScript.
-- Player1 Control are : W for up , S for down.
-- Player2 Control are : Arrow Up Key for up , Arrow Down Key for down.
 
 <br>
 
