@@ -219,6 +219,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 52.Memory Card Game <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/52-Memory%20Card%20Game" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/52-Memory%20Card%20Game/Images/preview1.png)
 
+### 53.Guess A Number <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/53-Guess%20A%20Number" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/53-Guess%20A%20Number/Images/preview1.png)
+
 
 <!-- 
 
