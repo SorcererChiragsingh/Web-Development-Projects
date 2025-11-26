@@ -222,6 +222,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 53.Guess A Number <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/53-Guess%20A%20Number" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/53-Guess%20A%20Number/Images/preview1.png)
 
+### 54.Roll A Dice <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/54-Roll%20A%20Dice" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/54-Roll%20A%20Dice/Images/preview1.png)
+
 
 <!-- 
 
