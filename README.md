@@ -228,6 +228,8 @@ Basic Web Development Projects focused on building foundational web applications
 ### 55.Hangman Game <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/55-Hangman%20Game" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/55-Hangman%20Game/Images/preview1.png)
 
+### 56.Whack A Mole Game <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/56-Whack%20A%20Mole" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/56-Whack%20A%20Mole/Images/preview1.png)
 
 <!-- 
 
