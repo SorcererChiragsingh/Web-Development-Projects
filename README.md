@@ -231,6 +231,10 @@ Basic Web Development Projects focused on building foundational web applications
 ### 56.Whack A Mole Game <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/56-Whack%20A%20Mole" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/56-Whack%20A%20Mole/Images/preview1.png)
 
+### 57.QR Code Generator <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/57-QR%20Code%20Generator" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/57-QR%20Code%20Generator/Images/preview1.png)
+
+
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
