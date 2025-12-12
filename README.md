@@ -234,6 +234,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 57.QR Code Generator <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/57-QR%20Code%20Generator" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/57-QR%20Code%20Generator/Images/preview1.png)
 
+### 58.Birthday Paper Blaster <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/58-Birthday%20Paper%20Blaster" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/58-Birthday%20Paper%20Blaster/Images/preview1.png)
+
 
 <!-- 
 
