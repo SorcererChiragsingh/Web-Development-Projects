@@ -237,6 +237,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 58.Birthday Paper Blaster <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/58-Birthday%20Paper%20Blaster" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/58-Birthday%20Paper%20Blaster/Images/preview1.png)
 
+### 59.Fetch User Location <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/59-Fetch%20User%20Location" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/59-Fetch%20User%20Location/Images/preview1.png)
+
 
 <!-- 
 
