@@ -243,6 +243,10 @@ Basic Web Development Projects focused on building foundational web applications
 ### 60.Gif Generator <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/60-Gif%20Generator" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/60-Gif%20Generator/Images/preview1.png)
 
+### 61.Copy To Clipboard <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/61-Copy%20To%20Clipboard" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/61-Copy%20To%20Clipboard/Images/preview1.png)
+
+
 
 <!-- 
 
