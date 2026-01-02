@@ -246,6 +246,10 @@ Basic Web Development Projects focused on building foundational web applications
 ### 61.Copy To Clipboard <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/61-Copy%20To%20Clipboard" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/61-Copy%20To%20Clipboard/Images/preview1.png)
 
+### 62.Counter Application <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/62-Counter%20Application" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/62-Counter%20Application/Images/preview1.png)
+
+
 
 
 <!-- 
