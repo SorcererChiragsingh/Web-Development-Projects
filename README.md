@@ -249,6 +249,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 62.Counter Application <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/62-Counter%20Application" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/62-Counter%20Application/Images/preview1.png)
 
+### 63.Video Slider <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/63-Video%20Slider" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/63-Video%20Slider/Images/preview1.png)
+
 
 
 
