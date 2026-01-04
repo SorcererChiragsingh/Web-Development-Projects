@@ -252,6 +252,8 @@ Basic Web Development Projects focused on building foundational web applications
 ### 63.Video Slider <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/63-Video%20Slider" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/63-Video%20Slider/Images/preview1.png)
 
+### 64.Random Paragraph Generator <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/64-Random%20Paragraph%20Generator" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/64-Random%20Paragraph%20Generator/Images/preview1.png)
 
 
 
