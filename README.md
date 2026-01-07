@@ -258,6 +258,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 65.Light Bulb On Off <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/65-Light%20Bulb%20On%20Off" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/65-Light%20Bulb%20On%20Off/Images/preview1.png)
 
+### 66.Hide And Show Password <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/66-Hide%20And%20Show%20Password" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/66-Hide%20And%20Show%20Password/Images/preview1.png)
+
 
 
 
