@@ -261,7 +261,8 @@ Basic Web Development Projects focused on building foundational web applications
 ### 66.Hide And Show Password <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/66-Hide%20And%20Show%20Password" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/66-Hide%20And%20Show%20Password/Images/preview1.png)
 
-
+### 67.Palindrome Checker <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/67-Palindrome%20Checker" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/67-Palindrome%20Checker/Images/preview1.png)
 
 
 <!-- 
