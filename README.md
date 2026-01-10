@@ -264,6 +264,10 @@ Basic Web Development Projects focused on building foundational web applications
 ### 67.Palindrome Checker <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/67-Palindrome%20Checker" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/67-Palindrome%20Checker/Images/preview1.png)
 
+### 68.Mobile Tab Navigation <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/68-Mobile%20Tab%20Navigation" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/68-Mobile%20Tab%20Navigation/Images/preview1.png)
+
+
 
 <!-- 
 
