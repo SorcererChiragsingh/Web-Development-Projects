@@ -267,7 +267,8 @@ Basic Web Development Projects focused on building foundational web applications
 ### 68.Mobile Tab Navigation <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/68-Mobile%20Tab%20Navigation" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/68-Mobile%20Tab%20Navigation/Images/preview1.png)
 
-
+### 69.Text To Voice Application <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/69-Text%20To%20Voice%20Application" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/69-Text%20To%20Voice%20Application/Images/preview1.png)
 
 <!-- 
 
