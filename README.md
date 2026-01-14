@@ -273,6 +273,11 @@ Basic Web Development Projects focused on building foundational web applications
 ### 70.Speech To Text <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/70-Speech%20To%20Text" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/70-Speech%20To%20Text/Images/preview1.png)
 
+### 71.Piano Application <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/71-Piano%20Application" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/71-Piano%20Application/Images/preview1.png)
+
+
+
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
