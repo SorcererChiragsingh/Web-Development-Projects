@@ -282,6 +282,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 73.Read More Less <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/73-Read%20More%20Less" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/73-Read%20More%20Less/Images/preview1.png)
 
+### 74.Animated Counter <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/74-Animated%20Counter" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/74-Animated%20Counter/Images/preview1.png)
+
 
 <!-- 
 

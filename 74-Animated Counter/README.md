@@ -1,0 +1,16 @@
+# Basic Web Development Project's
+
+## 74.Animated Counter
+
+
+- This project is made using HTML,CSS & JavaScript.
+
+<br>
+
+## Watch the Live Preview 👉[Click Here](https://sorcererchiragsingh.github.io/Web-Development-Projects/74-Animated%20Counter)
+
+![Preview Image1](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/74-Animated%20Counter/Images/preview1.png)
+
+
+
+<br><br>
