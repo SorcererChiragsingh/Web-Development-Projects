@@ -288,6 +288,11 @@ Basic Web Development Projects focused on building foundational web applications
 ### 75.Typing Effect <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/75-Typing%20Effect" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/75-Typing%20Effect/Images/preview1.png)
 
+### 76.Image Comparison Slider <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/76-Image%20Comparison%20Slider" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/76-Image%20Comparison%20Slider/Images/preview1.png)
+
+
+
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
