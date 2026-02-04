@@ -291,7 +291,8 @@ Basic Web Development Projects focused on building foundational web applications
 ### 76.Image Comparison Slider <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/76-Image%20Comparison%20Slider" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/76-Image%20Comparison%20Slider/Images/preview1.png)
 
-
+### 77.Expanding Cards <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/77-Expanding%20Cards" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/77-Expanding%20Cards/Images/preview1.png)
 
 <!-- 
 
