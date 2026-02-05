@@ -294,6 +294,10 @@ Basic Web Development Projects focused on building foundational web applications
 ### 77.Expanding Cards <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/77-Expanding%20Cards" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/77-Expanding%20Cards/Images/preview1.png)
 
+### 78.Form Input Card <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/78-Form%20Input%20Card" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/78-Form%20Input%20Card/Images/preview1.png)
+
+
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
