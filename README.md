@@ -297,6 +297,10 @@ Basic Web Development Projects focused on building foundational web applications
 ### 78.Form Input Card <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/78-Form%20Input%20Card" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/78-Form%20Input%20Card/Images/preview1.png)
 
+### 79.Kinetic Loader <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/79-Kinetic%20Loader" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/79-Kinetic%20Loader/Images/preview1.png)
+
+
 
 <!-- 
 
