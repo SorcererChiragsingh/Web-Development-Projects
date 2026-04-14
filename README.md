@@ -303,6 +303,8 @@ Basic Web Development Projects focused on building foundational web applications
 ### 80.Drops Animation <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/80-Drops%20Animation" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/80-Drops%20Animation/Images/preview1.png)
 
+### 81.Progress Steps <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/81-Progress%20Steps" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/81-Progress%20Steps/Images/preview1.png)
 
 
 <!-- 
