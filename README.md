@@ -306,6 +306,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 81.Progress Steps <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/81-Progress%20Steps" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/81-Progress%20Steps/Images/preview1.png)
 
+### 82.Theme Clock <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/82-Theme%20Clock" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/82-Theme%20Clock/Images/preview1.png)
+
 
 <!-- 
 
