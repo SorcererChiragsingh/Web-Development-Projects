@@ -309,6 +309,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 82.Theme Clock <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/82-Theme%20Clock" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/82-Theme%20Clock/Images/preview1.png)
 
+### 83.Random Choice Picker <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/83-Random%20Choice%20Picker" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/83-Random%20Choice%20Picker/Images/preview1.png)
+
 
 <!-- 
 
