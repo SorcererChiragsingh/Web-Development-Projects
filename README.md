@@ -312,6 +312,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 83.Random Choice Picker <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/83-Random%20Choice%20Picker" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/83-Random%20Choice%20Picker/Images/preview1.png)
 
+### 84.Good Cheap Fast <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/84-Good%20Cheap%20Fast" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/84-Good%20Cheap%20Fast/Images/preview1.png)
+
 
 <!-- 
 
