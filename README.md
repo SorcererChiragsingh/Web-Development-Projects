@@ -315,6 +315,10 @@ Basic Web Development Projects focused on building foundational web applications
 ### 84.Good Cheap Fast <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/84-Good%20Cheap%20Fast" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/84-Good%20Cheap%20Fast/Images/preview1.png)
 
+### 85.Coin Flip <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/85-Coin%20Flip" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/85-Coin%20Flip/Images/preview1.png)
+
+
 
 <!-- 
 
