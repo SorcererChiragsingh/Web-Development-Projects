@@ -318,6 +318,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 85.Coin Flip <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/85-Coin%20Flip" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/85-Coin%20Flip/Images/preview1.png)
 
+### 86.Event Keycodes <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/86-Event%20Keycodes" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/86-Event%20Keycodes/Images/preview1.png)
+
 
 
 <!-- 
