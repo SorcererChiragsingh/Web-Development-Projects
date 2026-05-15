@@ -321,6 +321,8 @@ Basic Web Development Projects focused on building foundational web applications
 ### 86.Event Keycodes <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/86-Event%20Keycodes" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/86-Event%20Keycodes/Images/preview1.png)
 
+### 87.Timeline Project <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/87-Timeline%20Project" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/87-Timeline%20Project/Images/preview1.png)
 
 
 <!-- 
