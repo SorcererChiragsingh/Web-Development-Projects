@@ -326,6 +326,11 @@ Basic Web Development Projects focused on building foundational web applications
 
 ### 88.Floating Bubbles <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/88-Floating%20Bubbles" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/88-Floating%20Bubbles/Images/preview1.png)
+
+### 89.Hidden Search <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/89-Hidden%20Search" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/89-Hidden%20Search/Images/preview1.png)
+
+
 <!-- 
 
 ### 00. <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/" target="_blank"><strong>➥ Live Demo</strong></a>
