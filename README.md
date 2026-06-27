@@ -330,6 +330,10 @@ Basic Web Development Projects focused on building foundational web applications
 ### 89.Hidden Search <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/89-Hidden%20Search" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/89-Hidden%20Search/Images/preview1.png)
 
+### 90.Incrementing Count <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/90-Incrementing%20Count" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/90-Incrementing%20Count/Images/preview1.png)
+
+
 
 <!-- 
 
