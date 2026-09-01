@@ -333,6 +333,9 @@ Basic Web Development Projects focused on building foundational web applications
 ### 90.Incrementing Counter <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/90-Incrementing%20Counter" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/90-Incrementing%20Counter/Images/preview1.png)
 
+### 91.Tip Calculator <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/91-Tip%20Calculator" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/91-Tip%20Calculator/Images/preview1.png)
+
 
 
 <!-- 
