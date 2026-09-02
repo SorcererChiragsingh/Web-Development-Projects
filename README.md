@@ -336,6 +336,10 @@ Basic Web Development Projects focused on building foundational web applications
 ### 91.Tip Calculator <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/91-Tip%20Calculator" target="_blank"><strong>➥ Live Demo</strong></a>
 ![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/91-Tip%20Calculator/Images/preview1.png)
 
+### 92.Browse File Uploader <a href="https://sorcererchiragsingh.github.io/Web-Development-Projects/92-Browse%20File%20Uploader" target="_blank"><strong>➥ Live Demo</strong></a>
+![](https://github.com/sorcererchiragsingh/Web-Development-Projects/blob/main/91-Tip%20Calculator/Images/preview1.png)
+
+
 
 
 <!-- 
